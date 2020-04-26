@@ -1,0 +1,496 @@
+[
+{
+"title" : "TESS discovery of a super-Earth and three sub-Neptunes hosted by the bright, Sun-like star HD 108236",
+"id" : "2004.11314",
+"title" : "v1",
+"published" : "2020-04-23 16:51:06 +0000",
+"updated" : "2020-04-23 16:51:06 +0000",
+"summary" : "We report the discovery and validation of four extrasolar planets hosted by the nearby, bright, Sun-like (G3V) star HD~108236 using data from the Transiting Exoplanet Survey Satellite (TESS). We present transit photometry, reconnaissance and precise Doppler spectroscopy as well as high-resolution imaging, to validate the planetary nature of the objects transiting HD~108236, also known as the TESS Object of Interest (TOI) 1233. The innermost planet is a possibly-rocky super-Earth with a period of $3.79523_{-0.00044}^{+0.00047}$ days and has a radius of $1.586\pm0.098$ $R_\oplus$. The outer planets are sub-Neptunes, with potential gaseous envelopes, having radii of $2.068_{-0.091}^{+0.10}$ $R_\oplus$, $2.72\pm0.11$ $R_\oplus$, and $3.12_{-0.12}^{+0.13}$ $R_\oplus$ and periods of $6.20370_{-0.00052}^{+0.00064}$ days, $14.17555_{-0.0011}^{+0.00099}$ days, and $19.5917_{-0.0020}^{+0.0022}$ days, respectively. With V and K$_{\rm s}$ magnitudes of 9.2 and 7.6, respectively, the bright host star makes the transiting planets favorable targets for mass measurements and, potentially, for atmospheric characterization via transmission spectroscopy. HD~108236 is the brightest Sun-like star in the visual (V) band known to host four or more transiting exoplanets. The discovered planets span a broad range of planetary radii and equilibrium temperatures, and share a common history of insolation from a Sun-like star ($R_\star = 0.888 \pm 0.017$ R$_\odot$, $T_{\rm eff} = 5730 \pm 50$ K), making HD 108236 an exciting, opportune cosmic laboratory for testing models of planet formation and evolution.",
+"authors" : [
+"Tansu Daylan", "Kartik Pingle", "Jasmine Wright", "Maximilian N. Guenther", "Keivan G. Stassun", "Stephen R. Kane", "Andrew Vanderburg", "Daniel Jontof-Hutter", "Joseph E. Rodriguez", "Avi Shporer", "Chelsea Huang", "Tom Mikal-Evans", "Mariona Badenas-Agusti", "Karen A. Collins", "Benjamin Rackham", "Sam Quinn", "Ryan Cloutier", "Kevin I. Collins", "Pere Guerra", "Eric L. N. Jensen", "John F. Kielkopf", "Bob Massey", "Richard P. Schwarz", "David Charbonneau", "Jack J. Lissauer", "Jonathan M. Irwin", "Ozgur Basturk", "Benjamin Fulton", "Abderahmane Soubkiou", "Steve Howell", "Carl Ziegler", "Cesar Briceno", "Nicholas Law", "Andrew W. Mann", "Nic Scott", "Elise Furlan", "David R. Ciardi", "Rachel Matson", "Coel Hellier", "David R Anderson", "R. Paul Butler", "Jeffery D. Crane", "Joanna K. Teske", "Steve Schectman", "George R. Ricker", "Roland Vanderspek", "S. Seager", "Joshua N. Winn", "Jon M. Jenkins", "Zach Berta Thompson", "Luke Bouma", "Willie Fong", "Gabor Furesz", "Christopher E. Henze", "Ed Morgan", "Elisa Quintana", "Eric B. Ting", "Joseph D. Twicken"
+],
+"comment" : "",
+"updated" : "{
+    PDF = "http://arxiv.org/pdf/2004.11314v1";
+    abstract = "http://arxiv.org/abs/2004.11314v1";
+}",
+"categories" : [
+"astro-ph.EP"
+],
+"journal" : ""
+},
+{
+"title" : "Simulating Anisoplanatic Turbulence by Sampling Inter-modal and Spatially Correlated Zernike Coefficients",
+"id" : "2004.11210",
+"title" : "v1",
+"published" : "2020-04-23 15:05:39 +0000",
+"updated" : "2020-04-23 15:05:39 +0000",
+"summary" : "Simulating atmospheric turbulence is an essential task for evaluating turbulence mitigation algorithms and training learning-based methods. Advanced numerical simulators for atmospheric turbulence are available, but they require evaluating wave propagation which is computationally expensive. In this paper, we present a propagation-free method for simulating imaging through turbulence. The key idea behind our work is a new method to draw inter-modal and spatially correlated Zernike coefficients. By establishing the equivalence between the angle-of-arrival correlation by Basu, McCrae and Fiorino (2015) and the multi-aperture correlation by Chanan (1992), we show that the Zernike coefficients can be drawn according to a covariance matrix defining the correlations. We propose fast and scalable sampling strategies to draw these samples. The new method allows us to compress the wave propagation problem into a sampling problem, hence making the new simulator significantly faster than existing ones. Experimental results show that the simulator has an excellent match with the theory and real turbulence data.",
+"authors" : [
+"Nicholas Chimitt", "Stanley H. Chan"
+],
+"comment" : "",
+"updated" : "{
+    PDF = "http://arxiv.org/pdf/2004.11210v1";
+    abstract = "http://arxiv.org/abs/2004.11210v1";
+}",
+"categories" : [
+"physics.optics", "astro-ph.IM", "cs.CV", "eess.IV", "physics.flu-dyn"
+],
+"journal" : ""
+},
+{
+"title" : "Optical turbulence at Ali, China -- Results from the first year of lunar scintillometer observations",
+"id" : "1910.02128",
+"title" : "v2",
+"published" : "2019-10-04 20:06:06 +0000",
+"updated" : "2020-04-15 19:26:11 +0000",
+"summary" : "The location of an astronomical observatory is a key factor that affects its scientific productivity. The best astronomical sites are generally those found at high altitudes. Several such sites in western China and the Tibetan plateau are presently under development for astronomy. One of these is Ali, which at over 5000 m is one of the highest astronomical sites in the world. In order to further investigate the astronomical potential of Ali, we have installed a lunar scintillometer, for the primary purpose of profiling atmospheric turbulence. This paper describes the instrument and technique, and reports results from the first year of observations. We find that ground layer (GL) turbulence at Ali is remarkably weak and relatively thin. The median seeing, from turbulence in the range 11- 500 m above ground is 0.34 arcsec, with seeing better than 0.26 arcsec occurring 25 per cent of the time. Under median conditions, half of the GL turbulence lies below a height of 62 m. These initial results, and the high altitude and relatively low temperatures, suggest that Ali could prove to be an outstanding site for ground-based astronomy.",
+"authors" : [
+"Paul Hickson", "Lu Feng", "Joschua A. Hellemeier", "Zhixia Shen", "Suijian Xue", "Yongqiang Yao", "Bin Ma", "Hualin Chen", "Rui Yang"
+],
+"comment" : "",
+"updated" : "{
+    PDF = "http://arxiv.org/pdf/1910.02128v2";
+    abstract = "http://arxiv.org/abs/1910.02128v2";
+}",
+"categories" : [
+"astro-ph.IM"
+],
+"journal" : ""
+},
+{
+"title" : "Site-testing at Muztagh-ata site II: Seeing statistics",
+"id" : "2003.13998",
+"title" : "v1",
+"published" : "2020-03-31 07:31:51 +0000",
+"updated" : "2020-03-31 07:31:51 +0000",
+"summary" : "In this article, we present a detailed analysis of the statistical properties of seeing for the Muztagh-ata site which is the candidate site for hosting future Chinese Large Optical/infrared Telescope (LOT) project. The measurement was obtained with Differential Image Motion Monitor (DIMM) from April 2017 to November 2018 at different heights during different periods. The median seeing at 11 meters and 6 meters are very close but different significantly from that on the ground. We mainly analyzed the seeing at 11 meters monthly and hourly, having found that the best season for observing was from late autumn to early winter and seeing tended to improve during the night only in autumn. The analysis of the dependence on temperature inversion, wind speed, direction also was made and the best meteorological conditions for seeing is given.",
+"authors" : [
+"Jing Xu", "Ali Esamdin", "Jin-xin Hao", "Jin-min Bai", "Ji Yang", "Xu Zhou", "Yong-qiang Yao", "Jin-liang Hou", "Guang-xin Pu", "Guo-jie Feng", "Chun-hai Bai", "Peng Wei", "Shu-guo Ma", "Abudusaimaitijiang Yisikandee", "Le-tian Wang", "Xuan Zhang", "Liang Ming", "Lu Ma", "Jin-zhong Liu", "Zi-huang Cao", "Yong-heng Zhao", "Lu Feng", "Jian-rong Shi", "Hua-lin Chen", "Chong Pei", "Xiao-jun Jiang", "Jian-feng Wang", "Jian-feng Tian", "Yan-jie Xue", "Jing-yao Hu", "Yun-ying Jiang"
+],
+"comment" : "13 pages, 16 figures",
+"updated" : "{
+    PDF = "http://arxiv.org/pdf/2003.13998v1";
+    abstract = "http://arxiv.org/abs/2003.13998v1";
+}",
+"categories" : [
+"astro-ph.IM"
+],
+"journal" : ""
+},
+{
+"title" : "The wind-driven halo in high-contrast images I: analysis from the focal plane images of SPHERE",
+"id" : "2003.05794",
+"title" : "v1",
+"published" : "2020-03-12 13:32:39 +0000",
+"updated" : "2020-03-12 13:32:39 +0000",
+"summary" : "Context. The wind driven halo is a feature observed within the images delivered by the latest generation of ground-based instruments equipped with an extreme adaptive optics system and a coronagraphic device, such as SPHERE at the VLT. This signature appears when the atmospheric turbulence conditions are varying faster than the adaptive optics loop can correct. The wind driven halo shows as a radial extension of the point spread function along a distinct direction (sometimes referred to as the butterfly pattern). When present, it significantly limits the contrast capabilities of the instrument and prevents the extraction of signals at close separation or extended signals such as circumstellar disks. This limitation is consequential because it contaminates the data a substantial fraction of the time: about 30% of the data produced by the VLT/SPHERE instrument are affected by the wind driven halo.Aims. This paper reviews the causes of the wind driven halo and presents a method to analyze its contribution directly from the scientific images. Its effect on the raw contrast and on the final contrast after post-processing is demonstrated.Methods. We used simulations and on-sky SPHERE data to verify that the parameters extracted with our method are capable of describing the wind driven halo present in the images. We studied the temporal, spatial and spectral variation of these parameters to point out its deleterious effect on the final contrast.Results. The data driven analysis we propose does provide information to accurately describe the wind driven halo contribution in the images. This analysis justifies why this is a fundamental limitation to the final contrast performance reached.Conclusions. With the established procedure, we will analyze a large sample of data delivered by SPHERE in order to propose, in the future, post-processing techniques tailored to remove the wind driven halo.",
+"authors" : [
+"Faustine Cantalloube", "Ollie Farley", "Julien Milli", "Nazim Ali Bharmal", "Wolfgang Brandner", "Carlos Correia", "Kjetil Dohlen", "Th Henning", "James Osborn", "Emiel Por", "M Suárez Valles", "Arthur Vigan"
+],
+"comment" : "Astronomy and Astrophysics - A&A, EDP Sciences, In press",
+"updated" : "{
+    PDF = "http://arxiv.org/pdf/2003.05794v1";
+    abstract = "http://arxiv.org/abs/2003.05794v1";
+}",
+"categories" : [
+"astro-ph.IM"
+],
+"journal" : ""
+},
+{
+"title" : "Multiconjugate Adaptive Optics for Astronomy",
+"id" : "2003.03097",
+"title" : "v1",
+"published" : "2020-03-06 09:19:53 +0000",
+"updated" : "2020-03-06 09:19:53 +0000",
+"summary" : "Since the year 2000, adaptive optics (AO) has seen the emergence of a variety of new concepts addressing particular science needs; multiconjugate adaptive optics (MCAO) is one of them. By correcting the atmospheric turbulence in 3D using several wavefront sensors and a tomographic phase reconstruction approach, MCAO aims to provide uniform diffraction limited images in the near-infrared over fields of view larger than 1 arcmin square, i.e., 10 to 20 times larger in area than classical single conjugated AO. In this review, we give a brief reminder of the AO principles and limitations, and then focus on aspects particular to MCAO, such as tomography and specific MCAO error sources. We present examples and results from past or current systems: MAD (Multiconjugate Adaptive Optics Demonstrator) and GeMS (Gemini MCAO System) for nighttime astronomy and the AO system, at Big Bear for solar astronomy. We examine MCAO performance (Strehl ratio up to 40percent in H band and full width at half maximum down to 52 mas in the case of MCAO), with a particular focus on photometric and astrometric accuracy, and conclude with considerations on the future of MCAO in the Extremely Large Telescope and post-HST era.",
+"authors" : [
+"Francois Rigaut", "Benoit Neichel"
+],
+"comment" : "38 pages, published in Annual Review of Astronomy and Astrophysics",
+"updated" : "{
+    PDF = "http://arxiv.org/pdf/2003.03097v1";
+    abstract = "http://arxiv.org/abs/2003.03097v1";
+}",
+"categories" : [
+"astro-ph.IM"
+],
+"journal" : ""
+},
+{
+"title" : "Effects of Mirror Seeing on High-Contrast Adaptive Optics Instruments",
+"id" : "2002.04649",
+"title" : "v1",
+"published" : "2020-02-11 19:52:21 +0000",
+"updated" : "2020-02-11 19:52:21 +0000",
+"summary" : "Ground-based direct imaging surveys like the Gemini Planet Imager Exoplanet Survey (GPIES) rely on Adaptive Optics (AO) systems to image and characterize exoplanets that are up to a million times fainter than their host stars. One factor that can reduce AO performance is turbulence induced by temperature differences in the instrument's immediate surroundings (e.g.: "dome seeing" or "mirror seeing"). In this analysis we use science observations, AO telemetry, and environmental data from September 2014 to February 2017 of the GPIES campaign to quantify the effects of "mirror seeing" on the performance of the GPI instrument. We show that GPI performance is optimal when the primary mirror (M1) is in equilibrium with the outside air temperature. We then examine the characteristics of mirror seeing by calculating the power spectral densities (PSD) of spatial and temporal Fourier modes. Inside the inertial range of the PSDs, we find that the spatial PSD amplitude increases when M1 is out of equilibrium and that the integrated turbulence may exhibit deviations from Kolmogorov atmospheric turbulence models and from the 1-layer frozen flow model. We conclude with an assessment of the current temperature control and ventilation strategy at Gemini South.",
+"authors" : [
+"Melisa Tallis", "Vanessa P. Bailey", "Bruce Macintosh", "Lisa A. Poyneer", "Jean-Baptiste Ruffio", "Thomas L. Hayward", "Fredrik T. Rantakyrö", "Jeffrey K. Chilcote", "Dmitry Savransky"
+],
+"comment" : "",
+"updated" : "{
+    DOI = "http://dx.doi.org/10.1117/1.JATIS.6.1.015002";
+    PDF = "http://arxiv.org/pdf/2002.04649v1";
+    abstract = "http://arxiv.org/abs/2002.04649v1";
+}",
+"categories" : [
+"astro-ph.IM"
+],
+"journal" : "J. Astron. Telesc. Instrum. Syst. 6(1), 015002 (2020)"
+},
+{
+"title" : "Characterisation of the ground layer of turbulence at Paranal using a robotic SLODAR system",
+"id" : "1912.04751",
+"title" : "v1",
+"published" : "2019-12-10 15:10:36 +0000",
+"updated" : "2019-12-10 15:10:36 +0000",
+"summary" : "We describe the implementation of a robotic SLODAR instrument at the Cerro Paranal observatory. The instrument measures the vertical profile of the optical atmospheric turbulence strength, in 8 resolution elements, to a maximum altitude ranging between 100 m and 500 m. We present statistical results of measurements of the turbulence profile on a total of 875 nights between 2014 and 2018. The vertical profile of the ground layer of turbulence is very varied, but in the median case most of the turbulence strength in the ground layer is concentrated within the first 50 m altitude, with relatively weak turbulence at higher altitudes up to 500 m. We find good agreement between measurements of the seeing angle from the SLODAR and from the Paranal DIMM seeing monitor, and also for seeing values extracted from the Shack-Hartmann active optics sensor of VLT UT1, adjusting for the height of each instrument above ground level. The SLODAR data suggest that a median improvement in the seeing angle from 0.689 arcsec to 0.481 arcsec at wavelength 500 nm would be obtained by fully correcting the ground-layer turbulence between the height of the UTs (taken as 10 m) and altitude 500 m.",
+"authors" : [
+"T. Butterley", "R. W. Wilson", "M. Sarazin", "C. M. Dubbeldam", "J. Osborn", "P. Clark"
+],
+"comment" : "",
+"updated" : "{
+    DOI = "http://dx.doi.org/10.1093/mnras/stz3498";
+    PDF = "http://arxiv.org/pdf/1912.04751v1";
+    abstract = "http://arxiv.org/abs/1912.04751v1";
+}",
+"categories" : [
+"astro-ph.IM"
+],
+"journal" : ""
+},
+{
+"title" : "AOtools -- a Python package for adaptive optics modelling and analysis",
+"id" : "1910.04414",
+"title" : "v1",
+"published" : "2019-10-10 07:52:19 +0000",
+"updated" : "2019-10-10 07:52:19 +0000",
+"summary" : "AOtools is a Python package which is open-source and aimed at providing tools for adaptive optics users and researchers. We present version 1.0 which contains tools for adaptive optics processing, including analysing data in the pupil plane, images and point spread functions in the focal plane, wavefront sensors, modelling of atmospheric turbulence, physical optical propagation of wavefronts, and conversion between frequently used adaptive optics and astronomical units. The main drivers behind AOtools is that it should be easy to install and use. To achieve this the project features extensive documentation, automated unit testing and is registered on the Python Package Index. AOtools is under continuous active development to expand the features available and we encourage everyone involved in adaptive optics to become involved and contribute to the project.",
+"authors" : [
+"M. J. Townson", "O. J. D. Farley", "G. Orban de Xivry", "J. Osborn", "A. P. Reeves"
+],
+"comment" : "Accepted in Optics Express",
+"updated" : "{
+    DOI = "http://dx.doi.org/10.1364/OE.27.031316";
+    PDF = "http://arxiv.org/pdf/1910.04414v1";
+    abstract = "http://arxiv.org/abs/1910.04414v1";
+}",
+"categories" : [
+"astro-ph.IM", "physics.data-an"
+],
+"journal" : ""
+},
+{
+"title" : "Multi-star Turbulence Monitor: A new technique to measure optical turbulence profiles",
+"id" : "1910.04307",
+"title" : "v1",
+"published" : "2019-10-10 00:20:15 +0000",
+"updated" : "2019-10-10 00:20:15 +0000",
+"summary" : "The strength and vertical distribution of atmospheric turbulence is a key factor determining the performance of optical and infrared telescopes, with and without adaptive optics. Yet, this remains challenging to measure. We describe a new technique using a sequence of short-exposure images of a star field, obtained with a small telescope. Differential motion between all pairs of star images is used to compute the structure functions of longitudinal and transverse wavefront tilt for a range of angular separations. These are compared with theoretical predictions of simple turbulence models by means of a Markov-Chain Monte-Carlo optimization. The method is able to estimate the turbulence profile in the lower atmosphere, the total and free-atmosphere seeing, and the outer scale. We present results of Monte-Carlo simulations used to verify the technique, and show some examples using data from the second AST3 telescope at Dome A in Antarctica.",
+"authors" : [
+"Paul Hickson", "Bin Ma", "Zhaohui Shang", "Suijian Xue"
+],
+"comment" : "",
+"updated" : "{
+    DOI = "http://dx.doi.org/10.1093/mnras/stz568";
+    PDF = "http://arxiv.org/pdf/1910.04307v1";
+    abstract = "http://arxiv.org/abs/1910.04307v1";
+}",
+"categories" : [
+"astro-ph.IM"
+],
+"journal" : "MNRAS, 485, 2532-2545 (2019)"
+},
+{
+"title" : "Demonstrating predictive wavefront control with the Keck II near-infrared pyramid wavefront sensor",
+"id" : "1909.05302",
+"title" : "v1",
+"published" : "2019-09-11 18:47:25 +0000",
+"updated" : "2019-09-11 18:47:25 +0000",
+"summary" : "The success of ground-based instruments for high contrast exoplanet imaging depends on the degree to which adaptive optics (AO) systems can mitigate atmospheric turbulence. While modern AO systems typically suffer from millisecond time lags between wavefront measurement and control, predictive wavefront control (pWFC) is a means of compensating for those time lags using previous wavefront measurements, thereby improving the raw contrast in the post-coronagraphic science focal plane. A method of predictive control based on Empirical Orthogonal Functions (EOF) has previously been proposed and demonstrated on Subaru/SCExAO. In this paper we present initial tests of this method for application to the near-infrared pyramid wavefront sensor (PYWFS) recently installed in the Keck II AO system. We demonstrate the expected root-mean-square wavefront error and contrast benefits of pWFC based on simulations, applying pWFC to on-sky telemetry data saved during commissioning of the PYWFS. We discuss how the performance varies as different temporal and spatial scales are included in the computation of the predictive filter. We further describe the implementation of EOF pWFC within the PYWFS dedicated real-time controller, and, via daytime testing at the observatory, we demonstrate the performance of pWFC in real time when pre-computed phase screens are applied to the deformable mirror.",
+"authors" : [
+"Rebecca Jensen-Clem", "Charlotte Z. Bond", "Sylvain Cetre", "Eden McEwen", "Peter Wizinowich", "Sam Ragland", "Dimitri Mawet", "James Graham"
+],
+"comment" : "10 pages, 6 figures, Proc of SPIE Optics+Photonics 2019",
+"updated" : "{
+    PDF = "http://arxiv.org/pdf/1909.05302v1";
+    abstract = "http://arxiv.org/abs/1909.05302v1";
+}",
+"categories" : [
+"astro-ph.IM"
+],
+"journal" : ""
+},
+{
+"title" : "Development of image motion compensation system for 1.3 m telescope at Vainu Bappu Observatory",
+"id" : "1908.11027",
+"title" : "v1",
+"published" : "2019-08-29 02:55:11 +0000",
+"updated" : "2019-08-29 02:55:11 +0000",
+"summary" : "We developed a tip-tilt system to compensate the turbulence induced image motion for 1.3 m telescope at Vainu Bappu Observatory, Kavalur. The instrument is designed to operate at visible wavelength band (480-700 nm) with a field of view $1^{\prime}\times1^{\prime}$. The tilt corrected images have shown up to $\approx$ 57% improvement in image resolution and a corresponding peak intensity increase by a factor of $\approx$ 2.8. A closed-loop correction bandwidth of $\approx$ 26 Hz has been achieved with on-sky tests and the root mean square motion of the star image has been reduced by a factor of $\sim$ 14. These results are consistent with theoretical and numerical predictions of wave-front aberrations caused by atmospheric turbulence and image quality improvement expected from a real-time control system. In this paper, we present the details of the instrument design, laboratory calibration studies and quantify its performance on the telescope.",
+"authors" : [
+"Sreekanth Reddy V", "Ravinder Kumar Banyal", "Sridharan R", "P U Kamath", "Aishwarya Selvaraj"
+],
+"comment" : "",
+"updated" : "{
+    PDF = "http://arxiv.org/pdf/1908.11027v1";
+    abstract = "http://arxiv.org/abs/1908.11027v1";
+}",
+"categories" : [
+"astro-ph.IM"
+],
+"journal" : ""
+},
+{
+"title" : "Impact of time-variant turbulence behavior on prediction for adaptive optics systems",
+"id" : "1903.06541",
+"title" : "v2",
+"published" : "2019-03-15 13:24:34 +0000",
+"updated" : "2019-04-05 09:55:31 +0000",
+"summary" : "For high contrast imaging systems, the time delay is one of the major limiting factors for the performance of the extreme adaptive optics (AO) sub-system and, in turn, the final contrast. The time delay is due to the finite time needed to measure the incoming disturbance and then apply the correction. By predicting the behavior of the atmospheric disturbance over the time delay we can in principle achieve a better AO performance. Atmospheric turbulence parameters which determine the wavefront phase fluctuations have time-varying behavior. We present a stochastic model for wind speed and model time-variant atmospheric turbulence effects using varying wind speed. We test a low-order, data-driven predictor, the linear minimum mean square error predictor, for a near-infrared AO system under varying conditions. Our results show varying wind can have a significant impact on the performance of wavefront prediction, preventing it from reaching optimal performance. The impact depends on the strength of the wind fluctuations with the greatest loss in expected performance being for high wind speeds.",
+"authors" : [
+"Maaike van Kooten", "Niek Doelman", "Matthew Kenworthy"
+],
+"comment" : "10 pages, 8 figures; Accepted to JOSA A March 2019",
+"updated" : "{
+    DOI = "http://dx.doi.org/10.1364/JOSAA.36.000731";
+    PDF = "http://arxiv.org/pdf/1903.06541v2";
+    abstract = "http://arxiv.org/abs/1903.06541v2";
+}",
+"categories" : [
+"astro-ph.IM"
+],
+"journal" : ""
+},
+{
+"title" : "MASCARA-4 b/bRing-1b - A retrograde hot Jupiter around the bright A3V star HD 85628",
+"id" : "1904.02733",
+"title" : "v1",
+"published" : "2019-04-04 18:13:54 +0000",
+"updated" : "2019-04-04 18:13:54 +0000",
+"summary" : "In this paper, we aim to characterize a transiting planetary candidate in the southern skies found in the combined MASCARA and bRing data sets of HD 85628, an A3V star of V = 8.2 mag at a distance 172 pc, to confirm its planetary nature. The candidate was originally detected in data obtained jointly with the MASCARA and bRing instruments using a BLS search for transit events. Further photometry was taken by the 0.7 m CHAT, and radial velocity measurements with FIDEOS on the ESO 1.0 m Telescope. High resolution spectra during a transit were taken with CHIRON on the SMARTS 1.5 m telescope to target the Doppler shadow of the candidate. We confirm the existence of a hot Jupiter transiting the bright A3V star HD 85628, which we co-designate as MASCARA-4b and bRing-1b. It is in a 2.824 day orbit, with an estimated planet radius of $1.53 ^{0.07}_{0.04}$ $R_{\rm{Jup}}$ and an estimated planet mass of $3.1 \pm 0.9$ $M_{\rm{Jup}}$, putting it well within the planet mass regime.. The CHAT observations show a partial transit, reducing the probability that the transit was around a faint background star. The CHIRON observations show a clear Doppler shadow, implying that the transiting object is in a retrograde orbit with $|\lambda| = 247.5 \pm 1.6 $\textdegree. The planet orbits at at a distance of 0.047 $\pm$ 0.004 AU from the star and has a zero-albedo equilibrium temperature of 2100 $\pm$ 100 K. In addition, we find that HD 85628 has a previously unreported stellar companion star in the Gaia DR2 data demonstrating common proper motion and parallax at 4.3 arcsecond separation (projected separation $\sim$740 AU), and with absolute magnitude consistent with being a K/M dwarf.",
+"authors" : [
+"P. Dorval", "G. J. J. Talens", "G. P. P. L. Otten", "R. Brahm", "A. Jordán", "L. Vanzi", "A. Zapata", "T. Henry", "L. Paredes", "W. C. Jao", "H. James", "R. Hinojosa", "G. A. Bakos", "Z. Csubry", "W. Bhatti", "V. Suc", "D. Osip", "E. E. Mamajek", "S. N. Mellon", "A. Wyttenbach", "R. Stuik", "M. Kenworthy", "J. Bailey", "M. Ireland", "S. Crawford", "B. Lomberg", "R. Kuhn", "I. Snellen"
+],
+"comment" : "10 pages, 8 figures, submitted to A&A",
+"updated" : "{
+    PDF = "http://arxiv.org/pdf/1904.02733v1";
+    abstract = "http://arxiv.org/abs/1904.02733v1";
+}",
+"categories" : [
+"astro-ph.EP"
+],
+"journal" : ""
+},
+{
+"title" : "PEPITO: atmospheric Profiling from short-Exposure focalPlane Images in seeing-limiTed mOde",
+"id" : "1901.10701",
+"title" : "v2",
+"published" : "2019-01-30 08:05:28 +0000",
+"updated" : "2019-04-04 12:30:23 +0000",
+"summary" : "Atmospheric profiling is a requirement for controlling wide-field Adaptive Optics (AO) instruments, analyzing the AO performance with respect to the observing conditions and predicting the Point Spread Function (PSF) spatial variations. We present PEPITO, a new concept for profiling atmospheric turbulence from {\em post~facto} tip-tilt (TT) corrected short-exposure images. PEPITO utilizes the anisokinetism effect in the images between several stars separated from a reference star, and then produces the profile estimation using a model-fitting methodology, by fitting to the long exposure TT-corrected PSF. PEPITO has a high sensitivity to both $C_n^2(h)$ and $L_0(h)$ by relying on the full telescope aperture and a large field of view. It then obtains a high vertical resolution (1\,m-400\,m) configurable by the camera pixel scale, taking advantage of fast statistical convergence (of order of tens of seconds). With only a short exposure-capable large format detector and a numerical complexity independent of the telescope diameter, PEPITO perfectly suits accurate profiling for night optical turbulence site characterization or adaptive optics instruments operations. We demonstrate, in simulation, that the $C_n^2(h)$ and $L_0(h)$ can be estimated to better than 1\% accuracy, from fitted PSFs of magnitude V=11 on a D=0.5\,m telescope with a 10 arcmin field of view.",
+"authors" : [
+"Olivier Beltramo-Martin", "Nazim A. Bharmal", "Carlos M. Correia"
+],
+"comment" : "11 pages, 14 figures, accepted 2019 April 04, submitted 2019 January 29",
+"updated" : "{
+    DOI = "http://dx.doi.org/10.1093/mnras/stz979";
+    PDF = "http://arxiv.org/pdf/1901.10701v2";
+    abstract = "http://arxiv.org/abs/1901.10701v2";
+}",
+"categories" : [
+"astro-ph.IM"
+],
+"journal" : ""
+},
+{
+"title" : "Measurements of atmospheric turbulence parameters at Vainu Bappu Observatory using short-exposure CCD images",
+"id" : "1901.02187",
+"title" : "v1",
+"published" : "2019-01-08 07:33:41 +0000",
+"updated" : "2019-01-08 07:33:41 +0000",
+"summary" : "We report the atmospheric turbulence parameters namely, atmospheric seeing, the tilt-anisoplanatic angle ($\theta_0$) and the coherence time ($\tau_0$), measured under various sky conditions, at Vainu Bappu Observatory in Kavalur. Bursts of short exposure images of selected stars were recorded with a high-speed, frame-transfer CCD mounted on the Cassegrain focus of a newly commissioned 1.3 m telescope. The estimated median seeing is $ \approx 1.85^{\prime\prime} $ at wavelength of $\sim 600$ nm, the image motion correlation between different pairs of stars is $\sim 44\%$ for $\theta_0 \approx 36^{\prime\prime}$ and mean $\tau_0$ is $\approx 2.4$ ms. This work was motivated by the design considerations and expected the performance of an adaptive optics system that is currently being planned for the telescope.",
+"authors" : [
+"Sreekanth Reddy V", "Ravinder Kumar Banyal", "Sridharan R", "Aishwarya Selvaraj"
+],
+"comment" : "",
+"updated" : "{
+    PDF = "http://arxiv.org/pdf/1901.02187v1";
+    abstract = "http://arxiv.org/abs/1901.02187v1";
+}",
+"categories" : [
+"astro-ph.IM"
+],
+"journal" : ""
+},
+{
+"title" : "Estimation of atmospheric turbulence parameters from Shack-Hartmann wavefront sensor measurements",
+"id" : "1811.08396",
+"title" : "v1",
+"published" : "2018-11-20 18:08:53 +0000",
+"updated" : "2018-11-20 18:08:53 +0000",
+"summary" : "The estimation of atmospheric turbulence parameters is of relevance for: a) site evaluation & characterisation; b) prediction of the point spread function; c) live assessment of error budgets and optimisation of adaptive optics performance; d) optimisation of fringe trackers for long baseline optical interferometry.   The ubiquitous deployment of Shack-Hartmann wavefront sensors in large telescopes makes them central for atmospheric turbulence parameter estimation via adaptive optics telemetry. Several methods for the estimation of the Fried parameter and outer scale have been developed, most of which are based on the fitting of Zernike polynomial coefficients variances reconstructed from the telemetry. The non-orthogonality of Zernike polynomial derivatives introduces modal cross coupling, which affects the variances. Furthermore, the finite resolution of the sensor introduces aliasing.   In this article the impact of these effects on atmospheric turbulence parameter estimation is addressed with simulations. It is found that cross coupling is the dominant bias. An iterative algorithm to overcome it is presented. Simulations are conducted for typical ranges of the outer scale (4 to 32m), Fried parameter (10 cm) and noise in the variances (signal-to-noise ratio of 10 and above). It is found that, using the algorithm, both parameters are recovered with sub-percent accuracy.",
+"authors" : [
+"Paulo P. Andrade", "Paulo J. V. Garcia", "Carlos M. Correia", "Johann Kolb", "Maria Inês Carvalho"
+],
+"comment" : "Accepted for publication by MNRAS",
+"updated" : "{
+    DOI = "http://dx.doi.org/10.1093/mnras/sty3181";
+    PDF = "http://arxiv.org/pdf/1811.08396v1";
+    abstract = "http://arxiv.org/abs/1811.08396v1";
+}",
+"categories" : [
+"astro-ph.IM"
+],
+"journal" : ""
+},
+{
+"title" : "A new generalized differential image motion monitor",
+"id" : "1811.07561",
+"title" : "v1",
+"published" : "2018-11-19 09:00:42 +0000",
+"updated" : "2018-11-19 09:00:42 +0000",
+"summary" : "We present first results of a new instrument, the Generalized Differential Image Motion Monitor (GDIMM), aiming at monitoring parameters of the optical turbulence (seeing, isoplanatic angle, coherence time and outer scale). GDIMM is based on a small telescope equipped with a 3-holes mask at its entrance pupil. The seeing is measured by the classical DIMM technique using two sub-pupils of the mask (6 cm diameter separated by a distance of 20 cm), the isoplanatic angle is estimated from scintillation through the third sub-pupil (its diameter is 10 cm, with a central obstruction of 4 cm). The coherence time is deduced from the temporal structure function of the angle of arrival (AA) fluctuations, thanks to the high-speed sampling rate of the camera. And the difference of the motion variances from sub-apertures of different diameters makes it possible to estimate the outer scale. GDIMM is a compact and portable instrument, and can be remotely controlled by an operator. We show in this paper the first results of test campaigns obtained in 2013 and 2014 at Nice observatory and the Plateau de Calern (France). Comparison with simultaneous data obtained with the Generalized Seeing Monitor (GSM) are also presented.",
+"authors" : [
+"Eric Aristidi", "Yan Fantei-Caujolle", "Aziz Ziad", "Cécile Dimur", "Julien Chabé", "Baptiste Roland"
+],
+"comment" : "",
+"updated" : "{
+    DOI = "http://dx.doi.org/10.1117/12.2056201";
+    PDF = "http://arxiv.org/pdf/1811.07561v1";
+    abstract = "http://arxiv.org/abs/1811.07561v1";
+}",
+"categories" : [
+"astro-ph.IM"
+],
+"journal" : "Proceedings of the SPIE, Volume 9145, id. 91453G 9 pp. (2014)"
+},
+{
+"title" : "Turbulence monitoring at the Plateau de Calern with the GDIMM instrument",
+"id" : "1811.07310",
+"title" : "v1",
+"published" : "2018-11-18 10:36:06 +0000",
+"updated" : "2018-11-18 10:36:06 +0000",
+"summary" : "We present some statistics of turbulence monitoring at the Plateau de Calern (France), with the Generalised Differential Image Motion Monitor (GDIMM). This instrument allows to measure integrated parameters of the atmospheric turbulence, i.e. seeing, isoplanatic angle, coherence time and outer scale, with 2 minutes time resolution. It is running routinely since November 2015 and is now fully automatic. A large dataset has been collected, leading to the first statistics of turbulence above the Plateau de Calern.",
+"authors" : [
+"Eric Aristidi", "Yan Fantei-Caujolle", "Julien Chabé", "Catherine Renaud", "Aziz Ziad", "Malak Ben Rahhal"
+],
+"comment" : "",
+"updated" : "{
+    DOI = "http://dx.doi.org/10.1117/12.2313352";
+    PDF = "http://arxiv.org/pdf/1811.07310v1";
+    abstract = "http://arxiv.org/abs/1811.07310v1";
+}",
+"categories" : [
+"astro-ph.IM"
+],
+"journal" : "Proceedings of the SPIE, Volume 10703, id. 107036U 9 pp. (2018)"
+},
+{
+"title" : "Sensing and control of segmented mirrors with a pyramid wavefront sensor in the presence of spiders",
+"id" : "1809.08839",
+"title" : "v1",
+"published" : "2018-09-24 11:06:43 +0000",
+"updated" : "2018-09-24 11:06:43 +0000",
+"summary" : "The segmentation of the telescope pupil (by spiders & the segmented M4) create areas of phase isolated by the width of the spiders on the wavefront sensor (WFS), breaking the spatial continuity of the wavefront. The poor sensitivity of the Pyramid WFS (PWFS) to differential piston leads to badly seen and therefore uncontrollable differential pistons. In close loop operation, differential pistons between segments will settle around integer values of the average sensing wavelength. The differential pistons typically range from one to ten times the sensing wavelength and vary rapidly over time, leading to extremely poor performance. In addition, aberrations created by atmospheric turbulence will contain large amounts of differential piston between the segments. Removing piston contribution over each of the DM segments leads to poor performance. In an attempt to reduce the impact of unwanted differential pistons that are injected by the AO correction, we compare three different approaches. We first limit ourselves to only use the information measured by the PWFS, in particular by reducing the modulation. We show that using this information sensibly is important but will not be sufficient. We discuss possible ways of improvement by using prior information. A second approach is based on phase closure of the DM commands and assumes the continuity of the correction wavefront over the entire unsegmented pupil. The last approach is based on the pair-wise slaving of edge actuators and shows the best results. We compare the performance of these methods using realistic end-to-end simulations. We find that pair-wise slaving leads to a small increase of the total wavefront error, only adding between 20-45 nm RMS in quadrature for seeing conditions between 0.45-0.85 arcsec. Finally, we discuss the possibility of combining the different proposed solutions to increase robustness.",
+"authors" : [
+"Noah Schwartz", "Jean-François Sauvage", "Carlos Correia", "Cyril Petit", "Fernando Quiros-Pacheco", "Thierry Fusco", "Kjetil Dohlen", "Kacem El Hadi", "Niranjan Thatte", "Fraser Clarke", "Jérome Paufique", "Joel Vernet"
+],
+"comment" : "12 pages, 15 figures, AO4ELT5 Proceedings, Adaptive Optics for Extremely Large Telescopes 5, Conference Proceeding, Tenerife, Canary Islands, Spain, June 25-30, 2017",
+"updated" : "{
+    DOI = "http://dx.doi.org/10.26698/AO4ELT5.0015";
+    PDF = "http://arxiv.org/pdf/1809.08839v1";
+    abstract = "http://arxiv.org/abs/1809.08839v1";
+}",
+"categories" : [
+"astro-ph.IM"
+],
+"journal" : ""
+},
+{
+"title" : "Design of the MagAO-X Pyramid Wavefront Sensor",
+"id" : "1807.04316",
+"title" : "v1",
+"published" : "2018-07-11 19:17:02 +0000",
+"updated" : "2018-07-11 19:17:02 +0000",
+"summary" : "Adaptive optics systems correct atmospheric turbulence in real time. Most adaptive optics systems used routinely correct in the near infrared, at wavelengths greater than 1 micron. MagAO- X is a new extreme adaptive optics (ExAO) instrument that will offer corrections at visible-to- near-IR wavelengths. MagAO-X will achieve Strehl ratios greater than 70% at H-alpha when running the 2040 actuator deformable mirror at 3.6 kHz. A visible pyramid wavefront sensor (PWFS) optimized for sensing at 600-1000 nm wavelengths will provide the high-order wavefront sensing on MagAO- X. We present the optical design and predicted performance of the MagAO-X pyramid wavefront sensor.",
+"authors" : [
+"Lauren H. Schatz", "Jared R. Males", "Laird M. Close", "Olivier Durney", "Olivier Guyon", "Michael Hart", "Jennifer Lumbres", "Kelsey Miller", "Justin Knight", "Alexander T. Rodack", "Joseph D. Long", "Kyle Van Gorkom", "Madison Jean", "Maggie Kautz"
+],
+"comment" : "SPIE Conference Proceedings, Telescopes and Instruments 2018 Austin",
+"updated" : "{
+    PDF = "http://arxiv.org/pdf/1807.04316v1";
+    abstract = "http://arxiv.org/abs/1807.04316v1";
+}",
+"categories" : [
+"astro-ph.IM"
+],
+"journal" : ""
+},
+{
+"title" : "Improved Image Quality Over 10' Fields with the `Imaka Ground Layer Adaptive Optics Experiment",
+"id" : "1807.03885",
+"title" : "v1",
+"published" : "2018-07-10 21:59:44 +0000",
+"updated" : "2018-07-10 21:59:44 +0000",
+"summary" : "`Imaka is a ground layer adaptive optics (GLAO) demonstrator on the University of Hawaii 2.2m telescope with a 24'x18' field-of-view, nearly an order of magnitude larger than previous AO instruments. In 15 nights of observing with natural guide star asterisms ~16' in diameter, we measure median AO-off and AO-on empirical full-widths at half-maximum (FWHM) of 0''95 and 0''64 in R-band, 0''81 and 0''48 in I-band, and 0''76 and 0''44 at 1 micron. This factor of 1.5-1.7 reduction in the size of the point spread function (PSF) results from correcting both the atmosphere and telescope tracking errors. The AO-on PSF is uniform out to field positions ~5' off-axis, with a typical standard deviation in the FWHM of 0''018. Images exhibit variation in FWMM by 4.5% across the field, which has been applied as a correction to the aforementioned quantities. The AO-on PSF is also 10x more stable in time compared to the AO-off PSF. In comparing the delivered image quality to proxy measurements, we find that in both AO-off and AO-on data, delivered image quality is correlated with `imaka's telemetry, with R-band correlation coefficients of 0.68 and 0.70, respectively. At the same wavelength, the data are correlated to DIMM and MASS seeing with coefficients of 0.45 and 0.55. Our results are an essential first step to implementing facility-class, wide-field GLAO on Maunakea telescopes, enabling new opportunities to study extended astronomical sources, such as deep galaxy fields, nearby galaxies or star clusters, at high angular resolution.",
+"authors" : [
+"Fatima Abdurrahman", "Jessica R. Lu", "Mark Chun", "Max W. Service", "Olivier Lai", "Dora Fohring", "Doug Toomey", "Christoph Baranec"
+],
+"comment" : "19 pages, 16 figures",
+"updated" : "{
+    DOI = "http://dx.doi.org/10.3847/1538-3881/aad1f2";
+    PDF = "http://arxiv.org/pdf/1807.03885v1";
+    abstract = "http://arxiv.org/abs/1807.03885v1";
+}",
+"categories" : [
+"astro-ph.IM"
+],
+"journal" : ""
+},
+{
+"title" : "Forecasting seeing and parameters of long-exposure images by means of ARIMA",
+"id" : "1806.09536",
+"title" : "v1",
+"published" : "2018-06-25 15:48:27 +0000",
+"updated" : "2018-06-25 15:48:27 +0000",
+"summary" : "Atmospheric turbulence is the one of the major limiting factors for ground-based astronomical observations. In this paper, the problem of short-term forecasting seeing is discussed. The real data that were obtained by atmospheric optical turbulence (OT) measurements above Mount Shatdzhatmaz in 2007--2013 have been analysed. Linear auto-regressive integrated moving average (ARIMA) models are used for the forecasting. A new procedure for forecasting the image characteristics of direct astronomical observations (central image intensity, full width at half maximum, radius encircling 80% of the energy) has been proposed. Probability density functions of the forecast of these quantities are 1.5--2 times thinner than the respective unconditional probability density functions. Overall, this study found that the described technique could adequately describe temporal stochastic variations of the OT power.",
+"authors" : [
+"Matwey V. Kornilov"
+],
+"comment" : "",
+"updated" : "{
+    DOI = "http://dx.doi.org/10.1007/s10686-015-9485-7";
+    PDF = "http://arxiv.org/pdf/1806.09536v1";
+    abstract = "http://arxiv.org/abs/1806.09536v1";
+}",
+"categories" : [
+"astro-ph.IM"
+],
+"journal" : "Experimental Astronomy, 2016, Volume 41, Issue 1-2, pp. 223-242"
+},
+{
+"title" : "Optical turbulence profiling with Stereo-SCIDAR for VLT and ELT",
+"id" : "1806.02585",
+"title" : "v1",
+"published" : "2018-06-07 09:42:55 +0000",
+"updated" : "2018-06-07 09:42:55 +0000",
+"summary" : "Knowledge of the Earth's atmospheric optical turbulence is critical for astronomical instrumentation. Not only does it enable performance verification and optimisation of existing systems but it is required for the design of future instruments. As a minimum this includes integrated astro-atmospheric parameters such as seeing, coherence time and isoplanatic angle, but for more sophisticated systems such as wide field adaptive optics enabled instrumentation the vertical structure of the turbulence is also required.   Stereo-SCIDAR is a technique specifically designed to characterise the Earth's atmospheric turbulence with high altitude resolution and high sensitivity. Together with ESO, Durham University has commissioned a Stereo-SCIDAR instrument at Cerro Paranal, Chile, the site of the Very Large Telescope (VLT), and only 20~km from the site of the future Extremely Large Telescope (ELT).   Here we provide results from the first 18 months of operation at ESO Paranal including instrument comparisons and atmospheric statistics. Based on a sample of 83 nights spread over 22 months covering all seasons, we find the median seeing to be 0.64" with 50% of the turbulence confined to an altitude below 2 km and 40% below 600 m. The median coherence time and isoplanatic angle are found as 4.18 ms and 1.75" respectively.   A substantial campaign of inter-instrument comparison was also undertaken to assure the validity of the data. The Stereo-SCIDAR profiles (optical turbulence strength and velocity as a function of altitude) have been compared with the Surface-Layer SLODAR, MASS-DIMM and the ECMWF weather forecast model. The correlation coefficients are between 0.61 (isoplanatic angle) and 0.84 (seeing).",
+"authors" : [
+"J. Osborn", "R. W. Wilson", "M. Sarazin", "T. Butterley", "A. Chacón", "F. Derie", "O. J. D. Farley", "X. Haubois", "D. Laidlaw", "M. LeLouarn", "E. Masciadri", "J. Milli", "J. Navarrete", "M. J. Townson"
+],
+"comment" : "",
+"updated" : "{
+    DOI = "http://dx.doi.org/10.1093/mnras/sty1070";
+    PDF = "http://arxiv.org/pdf/1806.02585v1";
+    abstract = "http://arxiv.org/abs/1806.02585v1";
+}",
+"categories" : [
+"astro-ph.IM"
+],
+"journal" : "Published in MNRAS, 478, 1, 825-834, 2018
+  https://academic.oup.com/mnras/article-abstract/478/1/825/4987879"
+}
+]
