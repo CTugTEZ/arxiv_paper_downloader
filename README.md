@@ -13,3 +13,10 @@ USAGE
 <code>
 python paper_downloader.py -l "path to list of arx app output" -p "path to download"
 </code>
+
+İmportant note: add "/" to end of -p argument.
+
+Example:
+<code>
+python paper_downloader.py -l /Desktop/savedDocumentExport.txt -p /Desktop/papers/
+</code>
