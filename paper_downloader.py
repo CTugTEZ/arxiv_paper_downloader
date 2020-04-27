@@ -22,7 +22,7 @@ class paper_download:
                 pdf_links.append(lines.split('\"')[1]) # splitting just for link
             if lines[:7] == "\"title\"":
                 if len(lines.split("\"")[3]) != 2:
-                    pdf_links.append(lines.split("\"")[3])
+                    pdf_links.append(((lines.split("\"")[3]).replace("/","")).replace(":", ""))
             if lines[:11] == "\"published\"":
                 pdf_links.append(lines.split("\"")[3][:4])
             if lines[:9] == "\"authors\"":
